@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Abhishek M
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;AI%2FML+Explorer;Python+Developer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;AI%2FML+Explorer;Python+Developer" alt="Typing SVG" />
 </div>
 
 ## 🧠 About Me
 
 🎓 BCA Graduate passionate about transforming data into insights  
-🔭 Currently exploring: Deep Learning, NLP, and Computer Vision  
-🌱 Learning: Advanced ML algorithms, Neural Networks, MLOps  
+🔭 Currently exploring: Deep Learning and NLP  
+🌱 Learning: Advanced ML algorithms, Neural Networks  
 💡 Interests: Predictive Analytics, Data Visualization, AI Ethics  
 
 ## 🛠️ Tech Stack
